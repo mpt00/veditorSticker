@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updated": "2026-09-28",
+  "stickers": [
+    {
+      "id": "happy_birthday_01",
+      "name": "Happy Birthday",
+      "category": "Ulang Tahun",
+      "png": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/happy_birthday_01.png",
+      "thumb": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/happy_birthday_01_thumb.png",
+      "keywords": "ulang tahun, happy",
+      "durationMs": 3000
+    },
+    {
+      "id": "idul_fitri_01",
+      "name": "Selamat Idul Fitri",
+      "category": "Keagamaan",
+      "png": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/idul_fitri_01.png",
+      "thumb": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/idul_fitri_01_thumb.png",
+      "keywords": "keagamaan, selamat",
+      "durationMs": 3000
+    },
+    {
+      "id": "congrats_01",
+      "name": "Congratulations",
+      "category": "Umum",
+      "png": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/congrats_01.png",
+      "thumb": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/congrats_01_thumb.png",
+      "keywords": "umum, congratulations",
+      "durationMs": 3000
+    },
+    {
+      "id": "love_01",
+      "name": "Love Hearts",
+      "category": "Umum",
+      "png": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/love_01.png",
+      "thumb": "https://raw.githubusercontent.com/mpt00/veditorSticker/main/stickers/love_01_thumb.png",
+      "keywords": "love, cinta",
+      "durationMs": 3000
+    }
+  ]
+}
